@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "7723239a1c25019b",
+    "type": "split",
+    "children": [
+      {
+        "id": "65496e5f5d293af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af90706600fac93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "themes/stack/archetypes/tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0ec4263b1e5f375",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee936f5d7f3c0e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ba0ca37c864292",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe5b472190d77a4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93cd07fef8ef752a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b01254bcdf1ed2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e5b468fb9f5698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c970bec123d08a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "themes/stack/archetypes/tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ba1dda2edbd883e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "themes/stack/archetypes/tags.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d34448ff973b3fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "603b0111588c92c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "themes/stack/archetypes/tags.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "af90706600fac93a",
+  "lastOpenFiles": [
+    "themes/stack/archetypes/categories.md",
+    "themes/stack/archetypes/default.md",
+    "themes/stack/images/tn.png",
+    "themes/stack/images/screenshot.png",
+    "archetypes/default.md",
+    "content/posts/first.md"
+  ]
+}
