@@ -1,4 +1,40 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://reubensammut.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Reuben Sammut's blog"
 theme = 'stack'
+
+[params]
+featuredImageField="image"
+mainSections = [
+    "posts"
+]
+
+[params.footer]
+since = "2023"
+
+[params.sidebar]
+emoji = "🧑🏻‍💻"
+subtitle = "hello world"
+
+[params.sidebar.avatar]
+enabled = true
+src = "avatar.jpg"
+local = true
+
+[params.opengraph.twitter]
+site = "reubensammut"
+card = "summary_large_image"
+
+[[menu.social]]
+identifier = "github"
+name = "Github"
+url = "https://github.com/reubensammut"
+    [menu.social.params]
+    icon = "brand-github"
+
+[[menu.social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/reubensammut"
+    [menu.social.params]
+    icon = "brand-twitter"
