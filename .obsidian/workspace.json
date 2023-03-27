@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65496e5f5d293af8",
+        "id": "93e507acd5d59a39",
         "type": "tabs",
         "children": [
           {
-            "id": "af90706600fac93a",
+            "id": "a61b5ade009ae0db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "themes/stack/archetypes/tags.md",
+                "file": "content/posts/dllmain-and-threads/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/stack/archetypes/tags.md",
+                "file": "content/posts/dllmain-and-threads/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/stack/archetypes/tags.md",
+                "file": "content/posts/dllmain-and-threads/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/stack/archetypes/tags.md"
+                "file": "content/posts/dllmain-and-threads/index.md"
               }
             }
           }
@@ -146,13 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af90706600fac93a",
+  "active": "a61b5ade009ae0db",
   "lastOpenFiles": [
+    "resources/_gen/images/posts/dllmain-and-threads/inject-bad-then-good_hu2836abc0be3441628bace5a906b39fa2_19309_1024x0_resize_box_3.png",
+    "resources/_gen/images/posts/dllmain-and-threads/inject-bad-then-good_hu2836abc0be3441628bace5a906b39fa2_19309_480x0_resize_box_3.png",
+    "content/posts/dllmain-and-threads/inject-bad-then-good.png",
+    "resources/_gen/images/posts/dllmain-and-threads/inject-good-then-bad_hub192ea7010beba79611110cad4313271_24453_1024x0_resize_box_3.png",
+    "resources/_gen/images/posts/dllmain-and-threads/inject-good-then-bad_hub192ea7010beba79611110cad4313271_24453_480x0_resize_box_3.png",
+    "content/posts/dllmain-and-threads/inject-good-then-bad.png",
+    "resources/_gen/images/posts/dllmain-and-threads/run-with-samplebad_huf1a87fdc3900ce45cf2a0130c39db0f2_25816_1024x0_resize_box_3.png",
+    "resources/_gen/images/posts/dllmain-and-threads/run-with-samplebad_huf1a87fdc3900ce45cf2a0130c39db0f2_25816_480x0_resize_box_3.png",
+    "content/posts/dllmain-and-threads/run-with-samplebad.png",
+    "resources/_gen/images/posts/dllmain-and-threads/run-with-samplegood_hu49169600ce0ac9e1fd05a6337d820535_34109_1024x0_resize_box_3.png",
+    "resources/_gen/images/posts/dllmain-and-threads/run-with-samplegood_hu49169600ce0ac9e1fd05a6337d820535_34109_480x0_resize_box_3.png",
+    "resources/_gen/images/posts/dllmain-and-threads",
+    "resources/_gen/images/posts",
+    "content/posts/dllmain-and-threads",
+    "content/posts/first.md",
+    "content/posts/dllmain-and-threads/index.md",
+    "themes/stack/archetypes/tags.md",
     "themes/stack/archetypes/categories.md",
     "themes/stack/archetypes/default.md",
-    "themes/stack/images/tn.png",
-    "themes/stack/images/screenshot.png",
-    "archetypes/default.md",
-    "content/posts/first.md"
+    "archetypes/default.md"
   ]
 }
