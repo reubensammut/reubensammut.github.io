@@ -10,7 +10,7 @@ mainSections = [
 ]
 
 [params.footer]
-since = "2023"
+since = 2023
 
 [params.sidebar]
 emoji = "🧑🏻‍💻"
