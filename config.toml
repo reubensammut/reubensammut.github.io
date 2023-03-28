@@ -2,6 +2,7 @@ baseURL = 'https://reubensammut.github.io/'
 languageCode = 'en-us'
 title = "Reuben Sammut's blog"
 theme = 'stack'
+googleAnalytics = 'G-HL3P1T2C1F'
 
 [params]
 featuredImageField="image"
