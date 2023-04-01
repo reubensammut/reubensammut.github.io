@@ -100,3 +100,10 @@ name = "Twitter"
 url = "https://twitter.com/reubensammut"
     [menu.social.params]
     icon = "brand-twitter"
+
+[[menu.social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/reubensammut"
+    [menu.social.params]
+    icon = "brand-linkedin"
